@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# VSCode settings
+.vscode/
+
+# Node modules (if any scripts are added)
+node_modules/
+
+# Python cache (if any scripts are added)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore personal notes or scratch files
+notes/
+scratch/ 
